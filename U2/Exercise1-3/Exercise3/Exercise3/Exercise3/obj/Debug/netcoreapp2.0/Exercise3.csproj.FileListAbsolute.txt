@@ -1,0 +1,11 @@
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.deps.json
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.runtimeconfig.json
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.runtimeconfig.dev.json
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.dll
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.pdb
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.csprojResolveAssemblyReference.cache
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.AssemblyInfoInputs.cache
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.AssemblyInfo.cs
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.dll
+C:\Users\mbuchanan\Documents\KU_repos\U2\Practice\Exercise1\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.pdb

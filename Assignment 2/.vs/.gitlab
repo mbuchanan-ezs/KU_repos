@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1940808,
+    "Username": "mbuchanan",
+    "Name": "Mike Buchanan",
+    "Email": "mbuchanan@ezshield.com",
+    "AvatarUrl": "https://assets.gitlab-static.net/uploads/-/system/user/avatar/1940808/avatar.png",
+    "PrivateToken": "6000ec4ca9406916c7bdf8301f01c68be4e9eb1b581d70294c99bb7e8494a5ad",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
